@@ -1,0 +1,739 @@
+.head3{
+/* display:flex; */
+position:absolute;
+    top:50px;
+    /* left:30px; */
+    background-color: red;
+    /* height:50%; */
+   
+    width:100%;
+    height:65%;
+}
+.head3 img{
+    /* display:flex; */
+    position:absolute;
+    text-align: center;
+    align-items:center;
+    justify-items: center;
+    justify-content: center;
+top:67px;
+left:40px;
+    width:300px;
+    border-radius:50%;
+    
+}
+.head3 h3{
+    font-size:40px;
+    color:white;
+    position:absolute;
+    left:500px;
+    top:20px;
+    /* width:40%; */
+
+}
+.head3 p{
+    font-size:20px;
+    color:white;
+    position:absolute;
+    top:100px;
+    left:500px;
+    width:40%;
+
+}
+.head3 button{
+    position:absolute;
+    top:270px;
+    left:500px;
+background-color: white;
+color:red;
+font-size:20px;
+padding:20px;
+margin:20px;
+border-radius:30px;
+cursor: pointer;
+}
+.head3 button:hover{
+color:white;
+background-color: black;
+
+}
+.head4{
+    /* display:flex; */
+    position:absolute;
+        top:500px;
+        /* left:30px; */
+        /* background-color: red; */
+        /* height:50%; */
+       
+        width:100%;
+        /* height:65%; */
+    }
+    .head4 img{
+        /* display:flex; */
+        position:absolute;
+        text-align: center;
+        align-items:center;
+        justify-items: center;
+        justify-content: center;
+    top:67px;
+    left:1100px;
+        width:300px;
+        border-radius:50%;
+        
+    }
+    .head4 h3{
+        font-size:40px;
+        color:red;
+        position:absolute;
+        left:100px;
+        top:20px;
+        /* width:40%; */
+    
+    }
+    .head4 p{
+        font-size:20px;
+        color:red;
+        position:absolute;
+        top:100px;
+        left:100px;
+        width:40%;
+    
+    }
+    .head4 button{
+        position:absolute;
+        top:270px;
+        left:100px;
+       background-color:red;
+       color:white;
+    font-size:20px;
+    padding:20px;
+    margin:20px;
+    border-radius:30px;
+    cursor: pointer;
+    }
+    .head4 button:hover{
+        color:white;
+        background-color: black;
+        
+        }
+    .head5{
+       position:absolute;
+       top:1000px; 
+       /* left:70px; */
+       background-color: red;
+       width:100%;
+       height:75%;
+
+    }
+    .head5 h3{
+        font-size:40px;
+        /* position:absolute; */
+        color:white;
+       display:flex;
+       text-align: center;
+        align-items:center;
+        justify-items: center;
+        justify-content: center;
+
+    }
+    .head5 p{
+        font-size:20px;
+        position:absolute;
+        left:400px;
+       width:50%;
+        color:white;
+       
+       /* display:flex; */
+      
+    }
+    .head6{
+        position:absolute;
+        top:300px;
+        left:400px;
+        margin:3px;
+        padding:3px;
+        width:140px;
+        border:4px solid white;
+        border-radius:50%;
+       
+    }
+    .head6 h2{
+color:white;
+font-size:32px;
+
+text-align: center;
+
+
+
+    }
+    .head6 h4{
+        color:white;
+        font-size:20px;
+       
+       text-align: center;
+        
+       
+    }
+    .head7{
+        position:absolute;
+        top:300px;
+        left:700px;
+        margin:3px;
+        padding:3px;
+        width:140px;
+        border:4px solid white;
+        border-radius:50%;
+       
+    }
+    .head7 h2{
+color:white;
+font-size:32px;
+
+text-align: center;
+
+
+
+    }
+    .head7 h4{
+        color:white;
+        font-size:20px;
+       
+       text-align: center;
+        
+       
+    }
+    .head8{
+        position:absolute;
+        top:300px;
+        left:1000px;
+        margin:3px;
+        padding:3px;
+        width:140px;
+        border:4px solid white;
+        border-radius:50%;
+       
+    }
+    .head8 h2{
+color:white;
+font-size:32px;
+
+text-align: center;
+
+
+
+    }
+    .head8 h4{
+        color:white;
+        font-size:20px;
+       
+       text-align: center;
+        
+       
+    }
+    .head9{
+        /* position:absolute; */
+        position: relative;
+        top:1900px;
+    }
+    .head9 img {
+        width:100%;
+        height:400px;
+      position: relative;
+        /* position:absolute; */
+    }
+    .head9 p{
+color:white;
+top:150px;
+font-weight: 600;
+ position:absolute;
+left:400px;
+margin: auto;
+top:80px;
+width:40%;
+
+    }
+    .head9 h2{
+        color:white;
+        position: absolute;
+        top:220px;
+        left:40%;
+        font-weight: 800;
+        font-size: 35px;
+        /* text-align: center; */
+    }
+    .head10{
+        position: relative;
+        top:1900px;
+    }
+    .head10 h1{
+color:red;
+font-size: 40px;
+text-align: center;
+    }
+    .head10 p{
+color:red;
+
+text-align: center;
+margin:auto;
+
+font-size: 20px;
+/* width:50%; */
+
+    }
+
+    #box{
+        position: absolute;
+        top:200px;
+        font-size:30px;
+        border-radius: 25px;
+        left:32%;
+       width:30%;
+        text-align: center;
+        padding:3px;
+        margin:3px;
+    }
+.head10 button{
+    padding:3px;
+        margin:3px;
+    position: absolute;
+    top:200px;
+    font-size:30px;
+    border-radius: 25px;
+    left:830px;
+   width:15%;
+    text-align: center;
+    background-color: red;
+    color:white;
+    cursor: pointer;
+}
+.head10 button:hover{
+    background-color: black;
+    color:white;
+}
+.head12{
+position:relative;
+top:1520px;
+color:red;
+left:50px;
+
+}
+.head12 h1{
+    
+    font-size:40px;
+    
+    text-align: center;
+}
+.head13{
+    position: absolute;
+border:3px solid red;
+height:350px;
+width:25%;
+}
+.head13 h3{
+    font-size:25px;
+    text-align: center;
+    position:relative;
+    
+}
+.head13 img{
+width:70px;
+position: absolute;
+text-align: center;
+top:70px;
+left:40%;
+
+}
+.head13 h5{
+    position: absolute;
+    font-size:20px;
+    top:100px;
+left:42%;
+color:black;
+}
+.head13 p{
+    top:150px;
+width:70%;
+position: absolute;
+text-align: center;
+left:55px;
+
+}
+.head13 button{
+position: relative;
+top:210px;
+left:28%;
+font-size:20px;
+background-color: red;
+color:white;
+border-radius:10px;
+padding:8px;
+cursor: pointer;
+
+}
+.head13 button:hover{
+background-color: black;
+}
+.head14{
+    position: absolute;
+border:3px solid red;
+left:500px;
+height:350px;
+width:25%;
+}
+.head14 h3{
+    font-size:25px;
+    text-align: center;
+    position:relative;
+    
+}
+.head14 img{
+    width:70px;
+    position: absolute;
+    text-align: center;
+    top:70px;
+    left:40%;
+}
+.head14 h5{
+    position: absolute;
+    font-size:20px;
+    top:100px;
+left:42%;
+color:black;
+}
+
+.head14 p{
+    top:150px;
+width:70%;
+position: absolute;
+text-align: center;
+left:55px;
+}
+.head14 button{
+    position: relative;
+    top:210px;
+    left:28%;
+    font-size:20px;
+    background-color: red;
+    color:white;
+    border-radius:10px;
+    padding:8px;
+    cursor: pointer;
+}
+.head14 button:hover{
+    background-color: black;
+    }
+.head15{
+    position: absolute;
+border:3px solid red;
+height:350px;
+width:25%;
+left:1000px;
+}
+.head15 h3{
+    font-size:25px;
+    text-align: center;
+    position:relative;
+    
+}
+.head15 img{
+    width:70px;
+    position: absolute;
+    text-align: center;
+    top:70px;
+    left:40%;
+
+}
+.head15 h5{
+    position: absolute;
+    font-size:20px;
+    top:100px;
+left:42%;
+color:black;
+
+}
+.head15 p{
+    top:150px;
+width:70%;
+position: absolute;
+text-align: center;
+left:55px;
+}
+.head15 button{
+    position: relative;
+    top:210px;
+    left:28%;
+    font-size:20px;
+    background-color: red;
+    color:white;
+    border-radius:10px;
+    padding:8px;
+    cursor: pointer;
+}
+.head15 button:hover{
+    background-color: black;
+    }
+    .head20{
+        position: relative;
+        top:2100px;
+       
+    }
+    .head20 h1{
+        color:red;
+        font-size: 45px;
+        text-align: center;
+    }
+    .head20 h4{
+        position: relative;
+        color:red;
+        font-size: 20px;
+        width:80%;
+        margin:auto;
+        
+    }
+   
+    .head21 img{
+width:250px;
+    
+position: absolute;
+height:250px;
+border-radius: 50%;
+border:3px solid red;
+top:200px;
+left:200px;
+    }
+    .head21 h2{
+color:red;
+top:330px;
+position: relative;
+left:225px;
+    }
+    .head21 h5{
+color:red;
+font-size: 20px;
+top:300px;
+position: relative;
+left:270px;
+    }
+
+    .head22 img{
+       
+        width:250px;
+        position: absolute;
+        height:250px;
+        border-radius: 50%;
+        border:3px solid red;
+        top:200px;
+        left:600px;
+            }
+            .head22 h2{
+        color:red;
+        top: 460px;
+        position: absolute;
+        left:650px;
+            }
+            .head22 h5{
+        color:red;
+        font-size: 20px;
+        top:245px;
+        position: relative;
+        left:700px;
+            }
+            .head23 img{
+                width:250px;
+                position: absolute;
+                height:250px;
+                border-radius: 50%;
+                border:3px solid red;
+                top:200px;
+                left:1000px;
+                    }
+                    .head23 h2{
+                color:red;
+                top:460px;
+                position: absolute;
+                left:1040px;
+                    }
+                    .head23 h5{
+                color:red;
+                font-size: 20px;
+                top:190px;
+                position: relative;
+                left:1100px;
+                    }
+                   .front{
+                    position:relative;
+                    top:2300px;
+                    
+                   
+                   }
+                   #src2{
+                    position:absolute;
+                     width:100%;
+                     height:600px;
+                 
+                    /* display: inline-block; */
+
+                   }
+                   #src1{
+                    position:absolute;
+                    width:100px;
+                    left:30px;
+                    top:30px;
+                   }
+#new1{
+position:relative;
+top:40px;
+color:white;
+font-size:80px;
+left:100px;
+}
+#new2{
+    position:relative;
+color:white;
+/* top:35px; */
+width:35%;
+left:110px;
+}
+#new3{
+    position: relative;
+top:30px;
+left:100px;
+background-color:red;
+color:white;
+font-size:25px;
+padding:10px;
+border-radius:20px;
+cursor: pointer;
+
+
+
+}
+#new3:hover{
+    background-color: black;
+    color:white;
+}
+ul{
+    display: flex;
+    position: relative;
+    /* justify-content: space-evenly; */
+    margin:60px;
+    top:20px;
+    color:white;
+    left:600px;
+    font-size:30px;
+    font-weight: 400;
+    cursor:pointer;
+    /* padding:4px; */
+    list-style: none;
+   
+}
+
+li{
+   
+    margin:30px;
+    /* justify-content: space-evenly; */
+}
+li:hover{
+    color:blue;
+text-decoration: none;
+}
+.foot{
+    position:relative;
+    top:2330px;
+    background-color: black;
+    width:100%;
+    height:300px;
+}
+.foot h1{
+    position: relative;
+    color:white;
+    top:50px;
+    left:70px;
+
+}
+.foot p{
+    position: relative;
+    top:50px;
+    left:70px;
+    color:white;
+    width:20%;
+}
+.foot img{
+    position: relative;
+    top:50px;
+    left:70px;
+    width:40px;
+    margin:15px;
+    border-radius:50%;
+    cursor: pointer;
+}
+.foot1 h3{
+position:relative;
+font-size: 25px;
+left:700px;
+top:2070px;
+color:white;
+margin:5px;
+}
+.foot1 ul{
+    /* color:white; */
+    position:relative;
+font-size: 15px;
+left:600px;
+flex-direction: column;
+/* margin:px; */
+top:2020px;
+color:white;
+
+}
+.foot1 li{
+    margin:5px;
+}
+
+.foot2 h3{
+    position:relative;
+    font-size: 25px;
+    left:900px;
+    top:1784px;
+    color:black;
+    margin:5px;
+    color:white;
+    }
+    .foot2 ul{
+        /* color:white; */
+        position:relative;
+    font-size: 15px;
+    left:800px;
+    flex-direction: column;
+    /* margin:px; */
+    top:1735px;
+    color:white;
+    
+    }
+    .foot2 li{
+        margin:5px;
+    }
+    
+    .foot3 h3{
+        position:relative;
+        font-size: 25px;
+        left:1080px;
+        top:1500px;
+        color:white;
+        margin:5px;
+        }
+        .foot3 ul{
+            /* color:white; */
+            position:relative;
+        font-size: 15px;
+        left:985px;
+        flex-direction: column;
+        /* margin:px; */
+        top:1450px;
+        color:white;
+        
+        }
+        .foot3 li{
+            margin:5px;
+        }
+        
